@@ -42,8 +42,5 @@ public class Main
         doubleModulo = doubleOperandB % doubleOperandA;
         System.out.println("The modulo of using two ints of " + doubleOperandA + " and " + doubleOperandB + " is " + doubleModulo);
 
-
-
-
     }
 }
